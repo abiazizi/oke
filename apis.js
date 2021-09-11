@@ -4,6 +4,6 @@ function get_param(name){
 }
 
 if( get_param("prod") != "0" ){
-	var mykey 	= 'juancooookk';
+	var mykey 	= '_9Q2LgG';
 	window.location.href = 'https://s.click.aliexpress.com/deep_link.htm?aff_short_key='+mykey+'&dl_target_url=https://aliexpress.com/item/'+get_param("prod")+'.html';
 }
