@@ -7,4 +7,3 @@
 	}
 	if(params.gotcha) { document.addEventListener('DOMContentLoaded', function(){ document.title = 'Gotcha'; }); }
 })();
-</script>
